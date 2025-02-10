@@ -1,0 +1,12 @@
+{
+    "name" : "Hello world",
+    "description" : "This is an extension that says hello world",
+    "version" : "1.0",
+    "manifest_version" : 3,
+    "action" : {
+        "default_popup" : "index.html",
+        "default_icon" : "hello-icon.png",
+        "default_title" : "New Improved Hello World"
+    }
+
+}

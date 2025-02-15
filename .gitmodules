@@ -1,0 +1,9 @@
+[submodule "Focus-Mode-Extension"]
+	path = Focus-Mode-Extension
+	url = https://github.com/bediparam/Focus-Mode-Extension.git
+[submodule "Reading-Time-Extension"]
+	path = Reading-Time-Extension
+	url = https://github.com/bediparam/Reading-Time-Extension.git
+[submodule "Hello-World-Extension"]
+	path = Hello-World-Extension
+	url = https://github.com/bediparam/Hello-World-Extension.git
